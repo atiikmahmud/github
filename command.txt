@@ -1,0 +1,13 @@
+Github Command
+
+1. git init
+2. git add .
+3. git commit -m "comments"
+4. git remote add origin https://github.com/atiikmahmud.git
+5. git push -u origin master
+6. git branch check - git branch
+7. create git branch - git branch dev
+8. go to branch - git checkout main
+9. for merging - git merge main -> then code push...
+10. for clone project - git clone https://github.com/libgit2/libgit2 mylibgit
+
